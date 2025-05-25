@@ -1,0 +1,1 @@
+C:/Users/kotedze/Desktop/папка всех папок/курсы/Lab3/infrastructure/common/alb.tf
